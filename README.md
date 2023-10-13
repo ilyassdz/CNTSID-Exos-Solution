@@ -1,5 +1,5 @@
 Getting Started
-To get started with my solutions to the SNTSID Exos, you can simply clone this repository to your local machine. The solutions are written java programming languages and include detailed explanations to help you grasp the concepts behind each exercise.
+To get started with my solutions to the CNTSID Exos, you can simply clone this repository to your local machine. The solutions are written java programming languages and include detailed explanations to help you grasp the concepts behind each exercise.
 
 
 Clone the repository to your local machine using the following command:
@@ -17,14 +17,14 @@ Usage
 Contributing
 License
 About the Project
-The SNTSID Exos are a set of exercises aimed at improving our knowledge and skills in the SNTSID field. This repository contains my solutions to these exercises. I've designed the solutions to be straightforward and easy to understand, making it an excellent resource for learning and practicing.
+The SNTSID Exos are a set of exercises aimed at improving our knowledge and skills in the CNTSID field. This repository contains my solutions to these exercises. I've designed the solutions to be straightforward and easy to understand, making it an simple resource for learning and practicing.
 
 Getting Started
-To get started with my solutions to the SNTSID Exos, you can simply clone this repository to your local machine. The solutions are written in various programming languages and include detailed explanations to help you grasp the concepts behind each exercise.
+To get started with my solutions to the SNTSID Exos, you can simply clone this repository to your local machine. The solutions are written in various programming languages and include some explanations to help you grasp the concepts behind each exercise.
 
 Clone the repository to your local machine using the following command:
 
-git clone[ [https://github.com/yourusername/CNTSID-Exos-Solution.git]](https://github.com/ilyassdz/desktop-tutoria)
+git clone[ [https://github.com/ilyassdz/CNTSID-Exos-Solution.git]](https://github.com/ilyassdz/CNTSID-Exos-Solution)
 Explore the project files to access the solutions.
 
 Usage
