@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "test/TPString.Main",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CalculateLipYear",
+            "request": "launch",
+            "mainClass": "test/charik.CalculateLipYear",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "test/charik.Main",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "exo09GenerateRandomNumber",
+            "request": "launch",
+            "mainClass": "test/charik.exo09GenerateRandomNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "exo11Digit",
+            "request": "launch",
+            "mainClass": "test/charik.exo11Digit",
+            "projectName": "test"
+        }
+    ]
+}
