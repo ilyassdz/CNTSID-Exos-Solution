@@ -4,7 +4,7 @@ import java.io.File;
 public class ListFilesOfDirectory {
     public static void main(String[] args) {
         // Specify the directory path you want to list files and directories from.
-        String directoryPath = "C:\Users\user\OneDrive\Documents\GitHub\desktop-tutorial\test";
+        String directoryPath = "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\desktop-tutorial\\test";
 
         // Create a File object representing the directory.
         File directory = new File(directoryPath);

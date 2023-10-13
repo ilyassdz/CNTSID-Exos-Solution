@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReadFileLineByLine",
+            "request": "launch",
+            "mainClass": "test/javaIO.ReadFileLineByLine",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
             "name": "Launch External Terminal",
             "request": "launch",
             "console": "externalTerminal",
