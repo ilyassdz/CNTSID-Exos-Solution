@@ -4,7 +4,7 @@ To get started with my solutions to the CNTSID Exos, you can simply clone this r
 
 Clone the repository to your local machine using the following command:
 
-git clone [[https://github.com/yourusername/CNTSID-Exos-Solution.git]](https://github.com/ilyassdz/desktop-tutoria)
+git clone [[https://github.com/ilyassdz/CNTSID-Exos-Solution](https://github.com/ilyassdz/CNTSID-Exos-Solution)
 
 CNTSID Exos Solution
 Overview
