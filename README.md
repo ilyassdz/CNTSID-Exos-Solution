@@ -4,8 +4,8 @@ To get started with my solutions to the CNTSID Exos, you can simply clone this r
 
 Clone the repository to your local machine using the following command:
 
-git clone [[https://github.com/ilyassdz/CNTSID-Exos-Solution](https://github.com/ilyassdz/CNTSID-Exos-Solution)
-
+git clone[ [[https://github.com/ilyassdz/CNTSID-Exos-Solution](https://github.com/ilyassdz/CNTSID-Exos-Solution)
+](https://github.com/ilyassdz/CNTSID-Exos-Solution.git)
 CNTSID Exos Solution
 Overview
 This repository contains my solution to the SNTSID Exos, a series of exercises or challenges related to the subject. The solutions are designed to help you better understand and practice key concepts in SNTSID.
