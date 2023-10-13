@@ -10,13 +10,6 @@ CNTSID Exos Solution
 Overview
 This repository contains my solution to the SNTSID Exos, a series of exercises or challenges related to the subject. The solutions are designed to help you better understand and practice key concepts in SNTSID.
 
-Table of Contents
-About the Project
-Getting Started
-Usage
-Contributing
-License
-About the Project
 The SNTSID Exos are a set of exercises aimed at improving our knowledge and skills in the CNTSID field. This repository contains my solutions to these exercises. I've designed the solutions to be straightforward and easy to understand, making it an simple resource for learning and practicing.
 
 Getting Started
